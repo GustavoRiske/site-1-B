@@ -23,6 +23,14 @@ h4{
 	font-size: 20px;
 }
 
+#cabeçalho{
+
+    height: 100px;
+    margin: 0 autos;
+
+
+}
+
 #menu {
     width: 20%;
     height: 600px;
@@ -38,34 +46,5 @@ h4{
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-
-#exercicio1 {
-	width: 50%;
-    height: 600px;
-    float: left;
-}
-#exercicio1nocss {
-	
-    width: 20%;
-    height: 400px;
-    float: left;
-}
-#exercicio2nocss {
-	
-    width: 15%;
-    height: 400px;
-    float: right;
-}
-p {
-    text-align: left;
-    font-size: 20px;
-}
-
-.imagemcomputacional {
-    width: 35%;
-    height: 400px;
-    padding: 100px;
-    text-align: center;
 }
 
